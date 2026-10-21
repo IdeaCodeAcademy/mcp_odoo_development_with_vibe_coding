@@ -1,0 +1,3 @@
+[mcp_servers.odoo]
+url = "http://localhost:8069/mcp"
+bearer_token_env_var = "ODOO_MCP_TOKEN"
