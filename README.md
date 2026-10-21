@@ -1,0 +1,1 @@
+# mcp_odoo_development_with_vibe_coding
